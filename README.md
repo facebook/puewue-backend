@@ -99,7 +99,7 @@ Simply create `.env.test` with the environment variables you need, for example,
 This will use a different URL when running tests (in this case, a different
 DB on the same Redis).
 
-You can look at [env.sample](env.sample) for other variables used by this
+You can look at [.env.sample](.env.sample) for other variables used by this
 application.
 
 ## Deployment
